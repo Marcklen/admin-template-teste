@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useState } from "react"
 import AuthInput from "../components/auth/AuthInput"
 import { IconeAtencao } from "../components/icons"
